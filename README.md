@@ -1,5 +1,4 @@
 # Enterprise Data Transformation Pipeline Using Gen AI
-## Team SAAS
 
 ## Overview
 
@@ -15,14 +14,14 @@ This application runs on Python and uses AWS S3 and RDS to store the transformed
 
 ### Minimum requirements / Prerequisites
 
-OS: MacOS, Windows, Linux
+OS: Windows, Linux
 Software: PostgreSQL
 
 ### Steps to follow
 
 Run the following commands along the steps:
 
-1. Go the project structure
+1. Go to the project structure
 
 
     cd SAAS_REPO
@@ -34,7 +33,7 @@ Run the following commands along the steps:
     python -m venv SAAS
 
 
-3. Activate the vitual environment
+3. Activate the virtual environment
 
     
     source SAAS/bin/activate
