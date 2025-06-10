@@ -72,10 +72,4 @@ streamlit run App/app.py
 
 ---
 
-## 📬 Support
-
-If you encounter issues or have suggestions, feel free to contact the development team.
-
----
-
 _Built with 🧠 Gen AI and Python, deployed with Streamlit and AWS_
